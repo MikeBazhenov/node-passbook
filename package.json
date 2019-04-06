@@ -1,7 +1,7 @@
 {
   "name": "passbook",
   "description": "iOS Passbook for the Node hacker",
-  "homepage": "https://github.com/assaf/node-passbook",
+  "homepage": "https://github.com/MikeBazhenov/node-passbook",
   "version": "2.2.1",
   "author": {
     "name": "Assaf Arkin",
@@ -30,15 +30,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/assaf/node-passbook.git"
+    "url": "git://github.com/MikeBazhenov/node-passbook.git"
   },
   "bugs": {
-    "url": "http://github.com/assaf/node-passbook/issues"
+    "url": "http://github.com/MikeBazhenov/node-passbookissues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/assaf/node-passbook/blob/master/MIT-LICENSE"
+      "url": "http://github.com/MikeBazhenov/node-passbook/blob/master/MIT-LICENSE"
     }
   ]
 }
