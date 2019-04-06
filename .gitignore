@@ -5,3 +5,4 @@ lib/server.js
 .dropbox
 test.js
 *.tgz
+.idea
